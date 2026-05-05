@@ -1,17 +1,78 @@
-# student_profile_app
+# 🎓 Student Profile Flutter App
 
-A new Flutter project.
+A simple Flutter application that displays a student profile using modern UI components such as Card, Column, Row, and Icons.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 👤 Student Name Display
+* 🆔 Student ID
+* 🎓 Degree Program
+* 📞 Phone Number
+* 📧 Email Button
+* 🎨 Clean UI using Material Design
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+* Flutter
+* Dart
+* VS Code
+
+---
+
+## 📸 Screenshots
+
+
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository
+
+```
+git clone https://github.com/yourusername/student_profile_app.git
+```
+
+2. Navigate to project
+
+```
+cd student_profile_app
+```
+
+3. Install dependencies
+
+```
+flutter pub get
+```
+
+4. Run the app
+
+```
+flutter run
+```
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ ├── main.dart
+ └── Profile.dart
+```
+
+---
+
+## 👨‍💻 Author
+
+Hasith Maduranga
+
+---
+
+## ⭐ Acknowledgements
+
+This project was developed as part of academic coursework.
